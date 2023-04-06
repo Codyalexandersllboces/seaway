@@ -1,0 +1,97 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+header{
+    text-align: left;
+    font-size: 2.75em;
+    padding: 2%;
+}
+
+#container{
+    width: 100%;
+    height: 1100px;
+    padding: 4%;
+    text-align: left;
+    font-size: 2em;
+    background-color: #abcbf7;
+}
+#container blockquote {
+    font-size: 3em;
+    text-align: center;
+}
+
+#container img{
+    float: right;
+    padding: 2%;
+}
+
+#history{
+   width: 95%;
+    height: 3800px;
+    padding: 4%;
+    text-align: left;
+    font-size: 2em;
+    background-color: #c5dcfa;
+}
+#history blockquote{
+    font-size: 3em;
+    text-align: center;
+}
+
+#history img{
+    float: left;
+    max-width: 20%;
+}
+
+#locks{
+    width: 100%;
+    height: 1900px;
+    padding: 5%;
+    font-size: 2em;
+    background-color: #abcbf7;
+}
+
+#locks img{
+    
+}
+
+#locks blockquote {
+    font-size: 3em;
+    text-align: center;
+}
+
+#ecology{
+    width: 100%;
+    height: 1000px;
+    background-color: #c5dcfa;
+    font-size: 2em;
+    padding: 5%;
+}
+
+#ecology blockquote {
+    font-size: 3em;
+    text-align: center;
+}
+
+#newsletter{
+    width: 100%;
+    height: 400px;
+    background-color: #abcbf7;
+    font-size: 2em;
+}
+
+#newsletter h3{
+    text-align: center;
+    font: bold;
+}
+
+footer{
+    text-align: center;
+}
